@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BA5EA111-F748-FECE-0FAA-5F54A8A9D735}|">
+  <MonoDevelop.Ide.ItemProperties.demo__new PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BaiduMap_main.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameTest.cs" Line="144" Column="57" />
+      <File FileName="Assets/Scripts/BaiduMap_main.cs" Line="10" Column="45" />
+      <File FileName="Assets/Scripts/GameCtrl2.cs" Line="59" Column="9" />
+      <File FileName="Assets/Scripts/gps2bd.cs" Line="43" Column="34" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" Line="18" Column="14" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARAnchorManager.cs" Line="40" Column="9" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/ARPlaneAnchorGameObject.cs" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

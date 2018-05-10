@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8C8EB0C4-B3B9-F216-9738-E5B1A27796DD}|">
+  <MonoDevelop.Ide.ItemProperties.demo__new__UI PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameCtrl2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameCtrl2.cs" Line="188" Column="24" />
+      <File FileName="Assets/Scripts/GameTest.cs" Line="70" Column="14" />
+      <File FileName="Assets/Scripts/DirectionTest.cs" Line="4" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
